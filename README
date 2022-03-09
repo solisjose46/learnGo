@@ -1,0 +1,4 @@
+- cmd: application specific code 
+- pkg: ancillary non application specific code ie reusable code such as validation helpers and sql db models
+- ui: frontend files such as html, css, js
+go.mod
